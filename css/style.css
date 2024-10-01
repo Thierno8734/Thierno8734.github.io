@@ -1,0 +1,13 @@
+body{
+    font-family: monospace;
+    background-color: rgb(9, 255, 255);
+}
+
+h1{
+    color: rgba(0, 60, 255, 0.895);
+}
+
+img{
+    max-width: 20%;
+}
+
